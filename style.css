@@ -38,3 +38,14 @@
 .input-group input:last-child {
   margin-right: 0;
 }
+input-invalid {
+ border: 1px solid red;
+}
+
+input-invalid-required {
+
+}
+
+input-valid {
+  border: 1px solid green;
+}
